@@ -1,0 +1,2 @@
+Funcion multydiv
+(1/0=error)
